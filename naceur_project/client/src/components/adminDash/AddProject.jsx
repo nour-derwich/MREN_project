@@ -109,7 +109,7 @@ const AddProject = () => {
     <option value="">--Please select a category--</option>
     <option value="Ai Project">AI Project</option>
     <option value="Machine Learning Project">Machine Learning Project</option>
-    <option value="Industrial Automation Project"> Projects</option>
+    <option value="Industrial Automation Project"> Python</option>
     <option value="Deep Learinng">Deep Learinng</option>
     <option value="Data Science">Data Science</option>
   </select>

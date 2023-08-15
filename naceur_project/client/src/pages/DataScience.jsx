@@ -29,6 +29,7 @@ const DataScience = () => {
    <Heo/>
 <DataP projects={projects}/>
 </main>
+
     </>
   )
 }

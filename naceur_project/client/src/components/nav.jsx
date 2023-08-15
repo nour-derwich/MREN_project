@@ -47,7 +47,7 @@ function Nav() {
       <header className="header" id="header">
         <nav className="nav container">
           <Link to="/admin" className="nav__logo">
-            Naceur Keraani
+          Naceur Abdlhamid
           </Link>
 
           <div className="nav__menu" id="nav-menu">

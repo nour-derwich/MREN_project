@@ -14,14 +14,15 @@ function Heo() {
                 <div className="home__container container grid section__border">
                     <div className="home__data grid">
                         <h1 className="home__title">
-                            Naceur Keraani <br/>
+                            Naceur Abdlhamid <br/>
                             AI/Machine Learning<br/>
                             Developer , Tunis <br/>
                         </h1>
 
                         <div className="home__blob grid">
                             <div className="home__perfil">
-                                <img src='/image/pixlr-bg-result.png' alt="home perfil" />
+                                {/* <img src='/image/pixlr-bg-result.png' alt="home perfil" /> */}
+                                <img src='https://pngimg.com/d/robot_PNG16.png' alt="home perfil" />
                             </div>
 
                             <img src={img} alt="tesimege" className="home__shape-wawes" />
@@ -29,13 +30,16 @@ function Heo() {
                         </div>
 
                         <ul className="home__social">
-                            <Link to="https://www.linkedin.com/in/keraani-naceur-49523a175/" target="_blank" className="home__social-link">
+                            <Link to="www.linkedin.com/in/abdelhamid-naceur" target="_blank" className="home__social-link">
                                 <i className="ri-linkedin-box-line"></i>
                             </Link>
-                            <Link to="https://www.facebook.com/naseur.ker" target="_blank" className="home__social-link">
+                            <Link to="https://www.facebook.com/profile.php?id=100094757269444" target="_blank" className="home__social-link">
                                 <i className="ri-facebook-fill"></i>
                             </Link>
-                            <Link to="https://api.whatsapp.com/send?phone=0021695881709&text=Hello, more information!" target="_blank" className="home__social-link">
+                            <Link to="https://www.youtube.com/channel/UC9GZ1TqZ_rwD-ObDossuZtg" target="_blank" className="home__social-link">
+                                <i className="ri-youtube-line"></i>
+                            </Link>
+                            <Link to="https://api.whatsapp.com/send?phone=0021656061075&text=Hello, more information!" target="_blank" className="home__social-link">
                                 <i className="ri-whatsapp-line"></i>
                             </Link>
                         </ul>
@@ -98,7 +102,7 @@ function Heo() {
                             <p className="home__info-description">
                                 Tunisia, Tunis <br/>
                                 Keraani.naceur@gmail.com <br/>
-                                +216 95 88 17 09 <br/>
+                                +216 56 06 10 75 <br/>
                             </p>
                         </div>
 

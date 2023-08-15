@@ -36,21 +36,21 @@ function Contact() {
                 <div className="contact__data">
                     <span className="contact__data-title">Linkedlin</span>
                     <span className="contact__data-info"> www.linkedin.com/in/keraani-naceur</span>
-                    <Link to="https://www.linkedin.com/in/keraani-naceur-49523a175/" target="_blank" className="contact__button">
+                    <Link to="www.linkedin.com/in/abdelhamid-naceur" target="_blank" className="contact__button">
                         Write me <i className="ri-arrow-right-line"></i>
                     </Link>
                 </div>
                 <div className="contact__data">
                     <span className="contact__data-title">Facebook</span>
-                    <span className="contact__data-info">naseur.ker</span>
-                    <Link to="https://www.facebook.com/naseur.ker" target="_blank" className="contact__button">
+                    <span className="contact__data-info">Naceur Abdlhamid</span>
+                    <Link to="https://www.facebook.com/profile.php?id=100094757269444" target="_blank" className="contact__button">
                         Write me <i className="ri-arrow-right-line"></i>
                     </Link>
                 </div>
                 <div className="contact__data">
                     <span className="contact__data-title">WhatsApp</span>
-                    <span className="contact__data-info">+216 95 88 17 09</span>
-                    <Link to="https://api.whatsapp.com/send?phone=0021695881709&text=Hello, more information!" target="_blank" className="contact__button">
+                    <span className="contact__data-info">+216 56 06 10 75</span>
+                    <Link to="https://api.whatsapp.com/send?phone=0021656061075&text=Hello, more information!" target="_blank" className="contact__button">
                         Write me <i className="ri-arrow-right-line"></i>
                     </Link>
                 </div>

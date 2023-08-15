@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="footer">
             <div className="footer__container container">
-                <h1 className="footer__title">Naceur Keraani</h1>
+                <h1 className="footer__title">Naceur Abdlhamid</h1>
                 <p> AI/Machine Learning Developer</p>
 
                 <ul className="footer__list">
@@ -20,15 +20,15 @@ function Footer() {
                 </ul>
 
                 <ul className="footer__social">
-                    <Link to="https://www.linkedin.com/in/hasanjessa" target="_blank" className="footer__social-link">
+                    <Link to="www.linkedin.com/in/abdelhamid-naceur" target="_blank" className="footer__social-link">
                         <i className="ri-linkedin-box-line"></i>
                     </Link>
 
-                    <Link to="https://www.github.com/hasanjessa" target="_blank" className="footer__social-link">
-                        <i className="ri-github-line"></i>
+                    <Link to="https://www.youtube.com/channel/UC9GZ1TqZ_rwD-ObDossuZtg" target="_blank" className="footer__social-link">
+                        <i className="ri-youtube-line"></i>
                     </Link>
 
-                    <Link to="https://api.whatsapp.com/send?phone=19727418455&text=Hello, more information!" target="_blank" className="footer__social-link">
+                    <Link to="https://api.whatsapp.com/send?phone=0021656061075&text=Hello, more information!" target="_blank" className="footer__social-link">
                         <i className="ri-whatsapp-line"></i>
                     </Link>
 
